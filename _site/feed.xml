@@ -7,6 +7,19 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>果星</title>
+				
+				
+					<description>&lt;p&gt;果星的英姿.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 15 Sep 2015 00:00:00 +0800</pubDate>
+				<link>/GuoGuo/</link>
+				<guid isPermaLink="true">/GuoGuo/</guid>
+			</item>
+		
+			<item>
 				<title>Standard Post</title>
 				
 				
@@ -136,19 +149,6 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 				<pubDate>Sun, 01 Feb 2015 00:00:00 +0800</pubDate>
 				<link>/gallery-alt/</link>
 				<guid isPermaLink="true">/gallery-alt/</guid>
-			</item>
-		
-			<item>
-				<title>Vimeo</title>
-				
-				
-					<description>&lt;p&gt;this is a video post using the vimeo format.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sat, 31 Jan 2015 00:00:00 +0800</pubDate>
-				<link>/vimeo/</link>
-				<guid isPermaLink="true">/vimeo/</guid>
 			</item>
 		
 	</channel>
