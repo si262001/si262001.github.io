@@ -7,16 +7,40 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>果星</title>
+				<title>绿岛潜水</title>
 				
 				
-					<description>&lt;p&gt;果星的英姿.&lt;/p&gt;
+					<description>&lt;h3 id=&quot;section&quot;&gt;绿岛潜水&lt;/h3&gt;
 
 </description>
 				
-				<pubDate>Tue, 15 Sep 2015 00:00:00 +0800</pubDate>
-				<link>/GuoGuo/</link>
-				<guid isPermaLink="true">/GuoGuo/</guid>
+				<pubDate>Wed, 26 Aug 2015 00:00:00 +0800</pubDate>
+				<link>/DivingAtGreenIsland/</link>
+				<guid isPermaLink="true">/DivingAtGreenIsland/</guid>
+			</item>
+		
+			<item>
+				<title>Diver&#39;s Log 20150825</title>
+				
+				
+					<description>&lt;p&gt;This is a Diver’s Log about XiaoTao and XiaoHuan’s Diving journey.&lt;br /&gt;
+#### Date 20150825&lt;br /&gt;
+&lt;strong&gt;Diver&lt;/strong&gt;：机器人小淘       &lt;strong&gt;Location&lt;/strong&gt;：绿岛公馆右侧&lt;br /&gt;
+&lt;strong&gt;Visibility&lt;/strong&gt;:15M  &lt;strong&gt;Temperature&lt;/strong&gt;：26℃ Buttom&lt;br /&gt;
+&lt;strong&gt;Depth&lt;/strong&gt;：14M  &lt;strong&gt;Time&lt;/strong&gt;:45min&lt;br /&gt;
+&lt;strong&gt;Weight&lt;/strong&gt;：4kg  &lt;strong&gt;Exposure Protection&lt;/strong&gt;：Wet suit 3mm &lt;strong&gt;Conditions&lt;/strong&gt;：Shore&lt;br /&gt;
+&lt;strong&gt;Start bar&lt;/strong&gt;：200 &lt;strong&gt;End bar&lt;/strong&gt;：60&lt;br /&gt;
+&lt;strong&gt;Time In&lt;/strong&gt;：14:23  &lt;strong&gt;Time Out&lt;/strong&gt;：15:08&lt;br /&gt;
+&lt;strong&gt;Computer Dive&lt;/strong&gt;：SUUNTO ZOOP&lt;br /&gt;
+&lt;strong&gt;Dive Center&lt;/strong&gt;：BULE SAFARI  蓝鲨潜水中心&lt;br /&gt;
+&lt;strong&gt;Verification Signature&lt;/strong&gt;： TSU CHUN SHEN  #319891&lt;br /&gt;
+&lt;strong&gt;Diver Comments&lt;/strong&gt;：&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 25 Aug 2015 00:00:00 +0800</pubDate>
+				<link>/20150825DivingLog/</link>
+				<guid isPermaLink="true">/20150825DivingLog/</guid>
 			</item>
 		
 			<item>
