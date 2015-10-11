@@ -16,7 +16,7 @@
                 <div class="content_container">
                     <article>
                         {% if page.featimg %}
-                            <img class="featimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
+                            <img class="featimg" src="{{ page.featimg }}" alt="{{ page.featimg }}">
                         {% endif %}
 
                         <h1 class="page_title">

@@ -9,7 +9,7 @@ tag_dir: /tag
 category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
-media_folder: /img
+media_folder: 
 author_default_avatar: /profile-pic.jpg
 tumblr: "#"
 pinterest: "#"

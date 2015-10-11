@@ -1,7 +1,7 @@
 ---
 author: 机器人小淘
 title: 大明山
-featimg: 2009-0411-damingshan/1.JPG
+featimg: /img/2009-0411-damingshan/1.JPG
 tags: [travel]
 category: [2009]
 

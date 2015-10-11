@@ -1,6 +1,6 @@
 ---
 layout: page_full
-featimg: 6.jpg
+featimg: /img/6.jpg
 title: Page
 ---
 ## This is a full-width static page

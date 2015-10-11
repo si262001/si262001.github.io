@@ -1,7 +1,7 @@
 ---
 author: 机器人小淘
 title: 小琉球
-featimg: 2012-0916-xiaoliuqiu/1.JPG
+featimg: /img/2012-0916-xiaoliuqiu/1.JPG
 tags: [travel]
 category: [2012]
 

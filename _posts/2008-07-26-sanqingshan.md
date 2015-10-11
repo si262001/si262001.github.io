@@ -1,7 +1,7 @@
 ---
 author: 机器人小淘
 title: 三清山
-featimg: 2008-0726-sanqingshan/1.JPG
+featimg: /img/2008-0726-sanqingshan/1.JPG
 tags: [travel]
 category: [2008]
 

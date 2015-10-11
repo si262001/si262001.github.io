@@ -1,7 +1,7 @@
 ---
 author: 机器人小淘
 title: 新安江
-featimg: 2008-1001-xinanjiang/1.JPG
+featimg: /img/2008-1001-xinanjiang/1.JPG
 tags: [travel]
 category: [2008]
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-featimg: 8.jpg
+featimg: /img/8.jpg
 title: Page
 ---
 ## This is a static page

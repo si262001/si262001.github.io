@@ -2,7 +2,7 @@
 author: someone
 layout: post_full
 type: gallery
-featimg: /galleries/gallery-standard-post/2.jpg
+featimg: /img//galleries/gallery-standard-post/2.jpg
 title: Gallery Alternative
 gallery-id: gallery
 tags: [gallery, image]
